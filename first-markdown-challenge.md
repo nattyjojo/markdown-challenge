@@ -1,6 +1,6 @@
 
 
-# _Hello World_ ! <img src=" https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" hight =50 width = 50 alt = "hello emoji"> 
+# _Hello World_ ! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" hight=50 width=50 alt ="hello emoji"> 
 
 ## My name is John and i'm Web Dev intern at [___Becode___]("https://www.becode.org")
 
