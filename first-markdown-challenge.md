@@ -4,8 +4,10 @@
 
 ## My name is John and i'm Web Dev intern at [___Becode___]("https://www.becode.org")
 
-I'm passionate to becoming a full stack web developer. been able to do what i love to do gives me reasons and moltivations do more! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png" hight=20 width=20>.
+## A little about me.
 
+I'm passionate to becoming a full stack web developer. been able to do what i love to do gives me reasons and moltivations do more! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png" hight=20 width=20>.
+You might find me most times been silent or looking weird mean, never mind! because i'm very much happy and eager to give you my attention. i'm an introvert and not mean!. 
 I have some intresting skill's that you might like to know, i love nature and all contents of it, i have compassion and also love hardwork and focus.
 
 ## The Objectives i want to achieve as a developer during Becode:
